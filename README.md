@@ -1,3 +1,17 @@
+# Voron 0 c.Lab HM
+The Voron 0.2 R1 V1 as originally designed by Voron Design and the tweaked by FYSTEC for their kit. For additional documentation refer to the [Voron Design Website](https://vorondesign.com/voron0.2) and the [FYSTEC Website](https://www.fysetc.com/en-de/products/voron-0-2-pro-corexy-3d-printer-fast-printing-high-precision-printers-support-klipper-with-cheetah-v3-0-and-mini-stealthburner), as well as the [FYSTEC Voron 0 git](https://github.com/FYSETC/FYSETC-Voron-0.2-Pro) this git is forked from.
+
+Since our Printers are actively being improved and maintained since fixable design weakpoints show up regulary because of improper use by members or just wear and tear. Changes and additional mods made to our printers will make it to this repo eventually.
+
+- Motherboard: [FYSTEC Catalyst](https://github.com/FYSETC/Catalyst_Kit) with TMC2209 Stepper Drivers
+- Toolhead: [Mini Stealth with Sherpa Mini by atrushing](https://github.com/atrushing/Mini_Stealth)
+- Hotend: Wierd DragonACE Clone
+- Nozzles: Generic 0.4mm
+
+# Self made Mods designed by the c.Lab Team
+- new Shroud for the Mini Stealth to accept 3010 Fans
+- Mount for the Umbilical PCB by FYSTEC for the Mini Stealth
+# Original Readme
 # FYSETC-Voron-0.2-Pro
 
 This is a project from the VORON community, VORON 0.2. We made a little upgrade and improvement on the basis of this project, and provided a complete set of information. Thanks to the open source materials and support provided by the VORON community, and hope you like it. You can find Voron official information below.
